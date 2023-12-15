@@ -10,7 +10,8 @@ public class BatchRunOneTest {
 		System.out.println("Firtst Method belong to Project 1 - Batch First Run");
 		
 	}
-	
+
+	@Test
 	public void pushBatchRunOneMethodTest() {
 		
 		System.out.println("Second Method belong to Project 1 - Batch First Run");
