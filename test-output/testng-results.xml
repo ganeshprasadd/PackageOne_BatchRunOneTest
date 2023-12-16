@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-15T23:20:56 IST" name="Default suite" finished-at="2023-12-15T23:20:56 IST" duration-ms="63">
+  <suite started-at="2023-12-16T12:07:07 IST" name="Default suite" finished-at="2023-12-16T12:07:07 IST" duration-ms="174">
     <groups>
     </groups>
-    <test started-at="2023-12-15T23:20:56 IST" name="Default test" finished-at="2023-12-15T23:20:56 IST" duration-ms="63">
+    <test started-at="2023-12-16T12:07:07 IST" name="Default test" finished-at="2023-12-16T12:07:07 IST" duration-ms="174">
       <class name="PackageOne.BatchRunOneTest">
-        <test-method signature="pushBatchRunOneTest()[pri:0, instance:PackageOne.BatchRunOneTest@957e06]" started-at="2023-12-15T23:20:56 IST" name="pushBatchRunOneTest" finished-at="2023-12-15T23:20:56 IST" duration-ms="11" status="PASS">
+        <test-method signature="pushBatchRunOneMethodTest()[pri:0, instance:PackageOne.BatchRunOneTest@32502377]" started-at="2023-12-16T12:07:07 IST" name="pushBatchRunOneMethodTest" finished-at="2023-12-16T12:07:07 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pushBatchRunOneMethodTest -->
+        <test-method signature="pushBatchRunOneTest()[pri:0, instance:PackageOne.BatchRunOneTest@32502377]" started-at="2023-12-16T12:07:07 IST" name="pushBatchRunOneTest" finished-at="2023-12-16T12:07:07 IST" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pushBatchRunOneTest -->
